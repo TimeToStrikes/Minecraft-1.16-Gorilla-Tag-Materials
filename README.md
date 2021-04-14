@@ -35,3 +35,7 @@ What you should probably avoid
 -Workbenches (Crafting Table, Furnace, etc.)
 
 ///////////////////////////////////////////////////////
+
+When 1.17 come out I will update this and try to make the transparent blocks work
+
+///////////////////////////////////////////////////////
