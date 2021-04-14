@@ -8,8 +8,11 @@ Special Creadits: RedBrumbler (Provided the script that made this possible)
 
 ///////////////////////////////////////////////////////
 
-Note: DO NOT PUT EVERY MATERIAL IN YOUR GAME. The game will most likely not 
-load and there currently isnt a way to filter through every material in game.
+Note: DO NOT PUT EVERY MATERIAL IN YOUR GAME. There currently is nota way to
+filter through all your materials with the current version of the
+Gorilla Cosemetics Mod
+
+///////////////////////////////////////////////////////
 
 Best looking material types:
 -Ice
@@ -30,4 +33,5 @@ Best looking material types:
 What you should probably avoid
 -Transparent Blocks
 -Workbenches (Crafting Table, Furnace, etc.)
+
 ///////////////////////////////////////////////////////
