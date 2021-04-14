@@ -8,9 +8,9 @@ Special Creadits: RedBrumbler (Provided the script that made this possible)
 
 ///////////////////////////////////////////////////////
 
-Note: DO NOT PUT EVERY MATERIAL IN YOUR GAME. There currently is not a way to
+Note: DO NOT PUT EVERY MATERIAL IN YOUR GAME. There is currently not a way to
 filter through all your materials with the current version of the
-Gorilla Cosemetics Mod
+Gorilla Cosemetics Mod.
 
 ///////////////////////////////////////////////////////
 
