@@ -36,6 +36,6 @@ What you should probably avoid
 
 ///////////////////////////////////////////////////////
 
-When 1.17 come out I will update this and try to make the transparent blocks work
+When 1.17 comes out I will update this and try to make the transparent blocks work
 
 ///////////////////////////////////////////////////////
