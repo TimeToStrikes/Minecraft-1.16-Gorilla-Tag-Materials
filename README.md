@@ -4,13 +4,11 @@
 
 Made by vy0g
 
-Special Creadits: RedBrumbler (Provided the script that made this possible)
+Special Credits: RedBrumbler (Provided the script that made this possible)
 
 ///////////////////////////////////////////////////////
 
-Note: DO NOT PUT EVERY MATERIAL IN YOUR GAME. There is currently not a way to
-filter through all your materials with the current version of the
-Gorilla Cosemetics Mod.
+Note: DO NOT PUT EVERY MATERIAL IN YOUR GAME. It takes a while for your game to load and it takes a little while to download all the .gmats to your Materials Folder.
 
 ///////////////////////////////////////////////////////
 
