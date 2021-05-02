@@ -36,6 +36,12 @@ What you should probably avoid
 
 ///////////////////////////////////////////////////////
 
+[Download Link]
+
+https://github.com/TimeToStrikes/Minecraft-1.16-Gorilla-Tag-Materials/raw/main/Exports_MC.zip
+
+///////////////////////////////////////////////////////
+
 When 1.17 comes out I will update this and try to make the transparent blocks work
 
 ///////////////////////////////////////////////////////
